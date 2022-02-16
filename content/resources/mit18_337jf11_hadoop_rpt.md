@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Example of student work: student project report on replica-exchange
   molecular dynamics on Hadoop.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-337j-parallel-computing-fall-2011/6f3447744fb597fd274b70ecc430f956_MIT18_337JF11_Hadoop_rpt.pdf
+file: /media/courses/18-337j-parallel-computing-fall-2011/6f3447744fb597fd274b70ecc430f956_MIT18_337JF11_Hadoop_rpt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Replica-Exchange Molecular Dynamics on Hadoop Report
 uid: 6f344774-4fb5-97fd-274b-70ecc430f956
