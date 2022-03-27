@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c0426d62-bad7-f3e2-33eb-38753796ea60
 resourcetype: Document
 title: Parallel FFT in Julia
 uid: 2f2063e2-65e9-3930-9f5b-2f6b5d4b94d4

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c0426d62-bad7-f3e2-33eb-38753796ea60
 resourcetype: Document
 title: Parallel Fast Fourier Transform implementations in Julia Report
 uid: ba7ef71d-c0fe-a405-860b-7ebf878a5399

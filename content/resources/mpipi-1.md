@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 27f22ab8-bfd3-2eae-bc60-f5dbb135c98e
 resourcetype: Other
 title: MPI example program in Fortran
 uid: 129aec8d-d01b-e955-c3e7-360e78e83ced

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c0426d62-bad7-f3e2-33eb-38753796ea60
 resourcetype: Document
 title: Replica-Exchange Molecular Dynamics on Hadoop Report
 uid: 6f344774-4fb5-97fd-274b-70ecc430f956

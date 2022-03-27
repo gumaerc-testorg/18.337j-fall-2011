@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c0426d62-bad7-f3e2-33eb-38753796ea60
 resourcetype: Document
 title: 'Social Coding: A Case Study with Julia Report'
 uid: 699a697c-03e7-4136-53ba-6e8b5c4b87ab

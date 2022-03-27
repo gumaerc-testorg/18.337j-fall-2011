@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 27f22ab8-bfd3-2eae-bc60-f5dbb135c98e
 resourcetype: Other
 title: MPI example program in C
 uid: dbf4481f-e6e6-33c3-5c28-1f1b2de0f46d

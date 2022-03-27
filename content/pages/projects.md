@@ -88,7 +88,7 @@ uid: c0426d62-bad7-f3e2-33eb-38753796ea60
 
 Three of the students in the class have provided their final projects for publication on OCW and they are presented here with their permission.
 
-Parallel FFT in Julia: [Slide (PDF - 1.6MB)]({{< baseurl >}}/resources/mit18_337jf11_fft_pres), [Code (TXT)](./resolveuid/7574964c53feac5d89568be3d0644fdc), [Report (PDF)]({{< baseurl >}}/resources/mit18_337jf11_fft_rpt) (Courtesy of anonymous MIT student. Used with permission.)
+Parallel FFT in Julia: [Slide (PDF - 1.6MB)]({{< baseurl >}}/resources/mit18_337jf11_fft_pres), [Code (TXT)]({{< baseurl >}}/resources/parallel_fft), [Report (PDF)]({{< baseurl >}}/resources/mit18_337jf11_fft_rpt) (Courtesy of anonymous MIT student. Used with permission.)
 
 Social coding: [Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit18_337jf11_social_pres), [Report (PDF)]({{< baseurl >}}/resources/mit18_337jf11_social_rpt) (Courtesy of anonymous MIT student. Used with permission.)
 
