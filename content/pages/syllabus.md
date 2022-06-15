@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 190845ef-5dbe-4952-5a55-21879fa8600c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -14,7 +20,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010/pages/index.htm) or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/pages/index.htm).
+[_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010) or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010).
 
 Description
 -----------
@@ -28,7 +34,7 @@ One emphasis for this course will be VHLLs or Very High Level Languages for para
 Readings
 --------
 
-There is no textbook for this course. A list of links to suggested readings and videos can be found in the [related resources]({{< baseurl >}}/pages/related-resources) section.
+There is no textbook for this course. A list of links to suggested readings and videos can be found in the {{% resource_link 8ba834c0-b9d0-f060-f56d-9b67f8eceb4b "related resources" %}} section.
 
 Requirements
 ------------
