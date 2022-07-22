@@ -6,6 +6,7 @@ file: /courses/18-337j-parallel-computing-fall-2011/7574964c53feac5d89568be3d064
 file_type: text/plain
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: student project code on parallel fast Fourier transform implementations in Julia.
-

@@ -5,6 +5,7 @@ file: /courses/18-337j-parallel-computing-fall-2011/129aec8dd01be955c3e7360e78e8
 file_type: text/x-fortran
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for an assignment on parallel computing.
-

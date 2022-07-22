@@ -6,6 +6,7 @@ file: /courses/18-337j-parallel-computing-fall-2011/699a697c03e7413653ba6e8b5c4b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: student report presentation on social coding with Julia.
-
