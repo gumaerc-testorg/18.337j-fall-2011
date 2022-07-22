@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides links to related resources on parallel computing,
+  the Julia language, cloud computing, and MapReduce.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 8ba834c0-b9d0-f060-f56d-9b67f8eceb4b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 [Julia Language Videos](https://www.youtube.com/user/JuliaLanguage)
@@ -32,7 +40,7 @@ Julia is a fast, dynamic language for technical computing. These 10 videos are f
 Cloud Computing
 ---------------
 
-Above the Clouds: A Berkeley View of Cloud Computing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf))
+Above the Clouds: A Berkeley View of Cloud Computing ([PDF](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf))
 
 [User Guide for Amazon EC2](http://docs.amazonwebservices.com/AWSEC2/latest/UserGuide/index.html )
 

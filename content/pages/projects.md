@@ -1,22 +1,31 @@
 ---
 content_type: page
+description: This section provides information on the course project and samples of
+  student work.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: c0426d62-bad7-f3e2-33eb-38753796ea60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-[Kinds of Projects]({{< baseurl >}}/pages/projects#1)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Kinds of Projects" "#1" %}}
 
-[Julia-related Project Ideas]({{< baseurl >}}/pages/projects#2)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Julia-related Project Ideas" "#2" %}}
 
-[Modern Parallel Linear Algebra Project Ideas]({{< baseurl >}}/pages/projects#3)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Modern Parallel Linear Algebra Project Ideas" "#3" %}}
 
-[Parallel Algorithms, Libraries Project Ideas]({{< baseurl >}}/pages/projects#4)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Parallel Algorithms, Libraries Project Ideas" "#4" %}}
 
-[Abstractions and Infrastructure Project Ideas]({{< baseurl >}}/pages/projects#5)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Abstractions and Infrastructure Project Ideas" "#5" %}}
 
-[Tools]({{< baseurl >}}/pages/projects#6)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Tools" "#6" %}}
 
-[Sample Student Projects]({{< baseurl >}}/pages/projects#7)
+{{% resource_link c0426d62-bad7-f3e2-33eb-38753796ea60 "Sample Student Projects" "#7" %}}
 
 {{< anchor "1" >}}{{< /anchor >}}Kinds of Projects
 --------------------------------------------------
@@ -85,8 +94,8 @@ uid: c0426d62-bad7-f3e2-33eb-38753796ea60
 
 Three of the students in the class have provided their final projects for publication on OCW and they are presented here with their permission.
 
-Parallel FFT in Julia: [Slide (PDF - 1.6MB)]({{< baseurl >}}/resources/mit18_337jf11_fft_pres), [Code (TXT)](./resolveuid/7574964c53feac5d89568be3d0644fdc), [Report (PDF)]({{< baseurl >}}/resources/mit18_337jf11_fft_rpt) (Courtesy of anonymous MIT student. Used with permission.)
+Parallel FFT in Julia: {{% resource_link 2f2063e2-65e9-3930-9f5b-2f6b5d4b94d4 "Slide (PDF - 1.6MB)" %}}, {{% resource_link "7574964c-53fe-ac5d-8956-8be3d0644fdc" "Code (TXT)" %}}, {{% resource_link ba7ef71d-c0fe-a405-860b-7ebf878a5399 "Report (PDF)" %}} (Courtesy of anonymous MIT student. Used with permission.)
 
-Social coding: [Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit18_337jf11_social_pres), [Report (PDF)]({{< baseurl >}}/resources/mit18_337jf11_social_rpt) (Courtesy of anonymous MIT student. Used with permission.)
+Social coding: {{% resource_link "4ab4fd18-15c2-ada2-b213-3ad6ebe0bd47" "Slides (PDF)" %}}, {{% resource_link 699a697c-03e7-4136-53ba-6e8b5c4b87ab "Report (PDF)" %}} (Courtesy of anonymous MIT student. Used with permission.)
 
-Replica-Exchange Molecular Dynamics on Hadoop: [Report (PDF)]({{< baseurl >}}/resources/mit18_337jf11_hadoop_rpt) (Courtesy of Zachary Ulissi. Used with permission.)
+Replica-Exchange Molecular Dynamics on Hadoop: {{% resource_link 6f344774-4fb5-97fd-274b-70ecc430f956 "Report (PDF)" %}} (Courtesy of Zachary Ulissi. Used with permission.)
