@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: student project code on parallel fast Fourier
   transform implementations in Julia.'
 file: /courses/18-337j-parallel-computing-fall-2011/7574964c53feac5d89568be3d0644fdc_Parallel_FFT.txt
+file_size: 13251
 file_type: text/plain
 learning_resource_types:
 - Projects
