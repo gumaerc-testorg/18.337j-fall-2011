@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for an assignment on parallel computing.
-file: /ol-ocw-studio-app/courses/18-337j-parallel-computing-fall-2011/129aec8dd01be955c3e7360e78e83ced_mpipi.f
+file: /courses/18-337j-parallel-computing-fall-2011/129aec8dd01be955c3e7360e78e83ced_mpipi.f
 file_size: 1667
 file_type: text/x-fortran
 learning_resource_types:
