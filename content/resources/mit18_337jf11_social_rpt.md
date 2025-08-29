@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: student report presentation on social coding
   with Julia.'
-file: /courses/18-337j-parallel-computing-fall-2011/699a697c03e7413653ba6e8b5c4b87ab_MIT18_337JF11_Social_rpt.pdf
+file: /ol-ocw-studio-app/courses/18-337j-parallel-computing-fall-2011/699a697c03e7413653ba6e8b5c4b87ab_MIT18_337JF11_Social_rpt.pdf
 file_size: 365492
 file_type: application/pdf
 learning_resource_types:
