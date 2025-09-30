@@ -29,7 +29,7 @@ This course is an advanced interdisciplinary introduction to applied parallel co
 
 Numerical topics include: dense and sparse linear algebra, N-body problems, multigrid, fast-multipole, wavelets and Fourier transforms. Geometrical topics include partitioning and mesh generation. Other topics include: applications oriented architecture, understanding parallel programming paradigms, MPI, data parallel systems, Star-P for parallel Python and parallel MATLAB®, graphics processors, virtualization, caches and vector processors.
 
-One emphasis for this course will be VHLLs or Very High Level Languages for parallel computing. This includes the [Julia programming language](https://github.com/JuliaLang/julia). Julia is a high-level, high-performance dynamic language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
+One emphasis for this course will be VHLLs or Very High Level Languages for parallel computing. This includes the {{% resource_link "49019b0d-d159-49b3-add5-98d77cc2404c" "Julia programming language" %}}. Julia is a high-level, high-performance dynamic language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
 
 Readings
 --------
