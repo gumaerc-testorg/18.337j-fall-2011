@@ -45,7 +45,7 @@
     "website": "18-337j-parallel-computing-fall-2011"
   },
   "course_title": "Parallel Computing",
-  "course_description": "This is an advanced interdisciplinary introduction to applied parallel computing on modern supercomputers. It has a hands-on emphasis on understanding the realities and myths of what is possible on the world's fastest machines. We will make prominent use of the {{% resource_link \"f558b0de-4549-4e5f-a2b9-7b77f4b45794\" \"Julia Language\" %}}, a free, open-source, high-performance dynamic programming language for technical computing.\n",
+  "course_description": "This is an advanced interdisciplinary introduction to applied parallel computing on modern supercomputers. It has a hands-on emphasis on understanding the realities and myths of what is possible on the world's fastest machines. We will make prominent use of the [Julia Language](http://julialang.org/), a free, open-source, high-performance dynamic programming language for technical computing.\n",
   "department_numbers": [
     "18",
     "6"

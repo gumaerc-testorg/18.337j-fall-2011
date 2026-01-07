@@ -81,9 +81,9 @@ More parallel prefix
 5
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "98188b57-67ab-4a80-8252-ee4c7f1dbe8a" "Lincoln Labs" %}} view of the cloud; Intro to {{% resource_link "e56432ba-27f1-43c4-83a8-95f992a783e0" "MapReduce" %}}
+[Lincoln Labs](http://www.ll.mit.edu/) view of the cloud; Intro to [MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 
-Guest lecture by {{% resource_link "78300153-7b0a-4564-a4bd-0ac2f85f955b" "Dr. Jeremy Kepner" %}}, MIT
+Guest lecture by [Dr. Jeremy Kepner](http://www.mit.edu/~kepner/), MIT
 
 
 {{< tdclose >}}
