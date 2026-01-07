@@ -15,15 +15,15 @@ video_metadata:
 ---
 **NOTE**: The homework assignments for this class require access to the following online development tools and environments that **may not be freely available to OCW users**. The assignments are included here as examples of the work MIT students were expected to complete.
 
-{{% resource_link "b805beb9-77d4-4c3f-9b9e-2cb85d833d0b" "Message Passing Interface (MPI)" %}}: Standardized and portable message-passing system designed by a group of researchers from academia and industry to function on a wide variety of parallel computers.
+[Message Passing Interface (MPI)](http://www.mcs.anl.gov/research/projects/mpi/): Standardized and portable message-passing system designed by a group of researchers from academia and industry to function on a wide variety of parallel computers.
 
-{{% resource_link "dd02ccb5-6e41-4b35-94f5-b6236599361a" "Star-P:" %}} Technical computing software that offers an open platform architecture that helps to integrate software and hardware from various high performance computing (HPC) sources, and supports popular desktop tools, numerical libraries and hardware accelerators.
+[Star-P:](http://www.scientificcomputing.com/product-release/2008/01/star-p) Technical computing software that offers an open platform architecture that helps to integrate software and hardware from various high performance computing (HPC) sources, and supports popular desktop tools, numerical libraries and hardware accelerators.
 
-{{% resource_link "202fb3a5-f268-468f-9040-6fc7642ec0a6" "The Julia Programming Language:" %}} A high-level, high-performance dynamic language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
+[The Julia Programming Language:](https://julialang.org/) A high-level, high-performance dynamic language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
 
-{{% resource_link "73c9129b-5789-4257-abf8-baff96c82396" "Amazon Elastic Compute Cloud (Amazon EC2):" %}} A web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers.
+[Amazon Elastic Compute Cloud (Amazon EC2):](http://aws.amazon.com/ec2/) A web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers.
 
-{{% resource_link "fa2d0877-236e-4024-833d-8e73cb278d2b" "Hadoop MapReduce:" %}} A programming model and software framework for writing applications that rapidly process vast amounts of data in parallel on large clusters of compute nodes.
+[Hadoop MapReduce:](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html) A programming model and software framework for writing applications that rapidly process vast amounts of data in parallel on large clusters of compute nodes.
 
 ## Homework 1
 
@@ -55,7 +55,7 @@ The tools and environments you will use are:
 
 Suggested reading: Sections 3.1 through 3.3 of the book
 
-Lin, Jimmy, and Chris Dyer. *Data-Intensive Text Processing with MapReduce*. Morgan & Claypool, 2010. ISBN: 9781608453429. \[Preview with {{% resource_link "3409d3ba-b4ed-41e6-9644-3167ab0c2dd3" "Google Books" %}}\]
+Lin, Jimmy, and Chris Dyer. *Data-Intensive Text Processing with MapReduce*. Morgan & Claypool, 2010. ISBN: 9781608453429. \[Preview with [Google Books](http://books.google.co.in/books?id=GxFYuVZHG60C&printsec=frontcover&dq=Data-Intensive+Text+Processing+with+MapReduce&hl=en&sa=X&ei=v0AdT9HoNYbUrQfhotyGDQ&ved=0CDgQ6AEwAA#v=onepage&q=Data-Intensive%20Text%20Processing%20with%20MapReduce&f=false)\]
 
 Tasks to perform:
 
@@ -79,4 +79,4 @@ Section 3.3 of the book discusses a technique for computing this result in a sin
 
 **Obtaining input data**
 
-You can use the input data available on the homework page of the class website, or you may select your own corpus of input text. {{% resource_link "bfa8887c-d734-4840-9c06-56b9051a27f1" "Project Gutenberg" %}}, is a good source of interesting texts. There is no particular requirement on the size of data to use, but it should be interestingly large, e.g. the complete novels of Charles Dickens. To make the assignment more fun, entirely at your option, you may wish to compare statistics of different authors, time periods, genres, etc.
+You can use the input data available on the homework page of the class website, or you may select your own corpus of input text. [Project Gutenberg](http://www.gutenberg.org/), is a good source of interesting texts. There is no particular requirement on the size of data to use, but it should be interestingly large, e.g. the complete novels of Charles Dickens. To make the assignment more fun, entirely at your option, you may wish to compare statistics of different authors, time periods, genres, etc.
